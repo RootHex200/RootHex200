@@ -16,7 +16,7 @@ Skills: PYTHON / JAVA / DART / FLUTTER / NODE.JS / REACT / JS
 
 - 🌱 I’m currently learning **Dart Flutter**
 
-- 👀 But, now i am only focus on **Dart Flutter Node js**
+- 👀 But, now i am only focus on **Dart Flutter**
 
 - 🙂 I Could work any language and they are framework also-
 
