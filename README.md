@@ -47,3 +47,6 @@ Skills: PYTHON / JAVA / DART / FLUTTER / NODE.JS / REACT / JS
 <!-- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p> -->
+[![Watch the video](https://img.youtube.com/vi/YP7N_KfOqsk/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+ 
+ 
