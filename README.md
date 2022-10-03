@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Sabitur Rahman(RootHex200🙃)</h1>
+<h1 align="center">Hi 👋, I'm Sabitur Rahman</h1>
 <h3 align="center">I am a Flutter developer</h3>
 
 ![Profile views](https://gpvc.arturio.dev/sabiturrahmanRootHex200) 
@@ -45,4 +45,8 @@ Skills:DART / FLUTTER / NODE.JS / Express js
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p> -->
  
- 
+ ## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RootHex200&theme=dark&hide_border=true&include_all_commits=50&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RootHex200&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
