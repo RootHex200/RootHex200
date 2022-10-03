@@ -2,19 +2,19 @@
 
 
 <h1 align="center">Hi 👋, I'm Sabitur Rahman(RootHex200🙃)</h1>
-<h3 align="center">I am a developer</h3>
+<h3 align="center">I am a Flutter developer</h3>
 
 ![Profile views](https://gpvc.arturio.dev/sabiturrahmanRootHex200) 
 
-Welcome to my GitHub profile. I am a Developer.I am a quick learner. I believe in hard work
+Welcome to my GitHub profile. I am a Developer. I believe in hard work
 and efficiency. I always like to learn new things.
 Knock me: https://www.facebook.com/sabitur.rahman.RootHex200/
 
-Skills: PYTHON / JAVA / DART / FLUTTER / NODE.JS / REACT / JS
+Skills:DART / FLUTTER / NODE.JS / Express js
  
 
 
-- 🌱 I’m currently learning **Dart Flutter**
+- 🌱 I’m currently learning **Dart Flutter Node js**
 
 - 👀 But, now i am only focus on **Dart Flutter**
 
