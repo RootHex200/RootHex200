@@ -10,11 +10,11 @@ Welcome to my GitHub profile. I am a Developer. I believe in hard work
 and efficiency. I always like to learn new things.
 Knock me: https://www.facebook.com/sabitur.rahman.RootHex200/
 
-Skills:DART / FLUTTER / NODE.JS / Express js
+Skills:DART / FLUTTER
  
 
 
-- 🌱 I’m currently learning **Dart Flutter Node js**
+- 🌱 I’m currently learning **Dart Flutter Golang**
 
 - 👀 But, now i am only focus on **Dart Flutter**
 
