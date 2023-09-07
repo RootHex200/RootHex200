@@ -1,52 +1,51 @@
+## Sabitur Rahman
+#### Dart | Flutter | Kotlin
+    Email    : sabiturrahman60@gmail.com
+    Portfolio: https://sabiturrahman.vercel.app/
+    Linkedin : https://linkedin.com/in/roothex200/
+    Github   : https://github.com/RootHex200
+    Leetcode : https://leetcode.com/RootHex200/
+    
 
+### Cover Letter
+I've been into app development for about a year now, mainly using a cool tool called Flutter. My focus is making apps workreally smoothly, look great, and run efficiently.
 
+I'm always eager to learn and keep up with the latest tech trends. I've become quite handy with things like building thebehind-the-scenes part of apps, making them look nice, and figuring out how to make them run fast.I have honed my skills andexpertise in clean architecture, design patterns, data structures and algorithms. I've also finished a bunch of my ownprojects, and now I'm aiming to help out in the open-source Flutter and Dart community.
+### Open Source Projects
 
-<h1 align="center">Hi 👋, I'm Sabitur Rahman</h1>
-<h3 align="center">I am a Flutter developer</h3>
+- **Reminder App**
 
-![Profile views](https://gpvc.arturio.dev/sabiturrahmanRootHex200) 
+    This is a reminder app that uses Isar local database, notification, and isolate. Users can create activities, and these activities will remind them at specific dates and times.
 
-Welcome to my GitHub profile. I am a Developer. I believe in hard work
-and efficiency. I always like to learn new things.
-Knock me: https://www.facebook.com/sabitur.rahman.RootHex200/
+    ➲ Used  : Dart, Flutter, Isar Database, Local Notification, Isolate.
 
-Skills:DART / FLUTTER
- 
+    ➲ Demo  : [Playstore](https://play.google.com/store/apps/details?id=work_manager.sabitur)
 
+    ➲ Github: [Code](https://github.com/RootHex200/Reminder_App)
 
-- 🌱 I’m currently learning **Dart Flutter Golang**
+- **Auction App**
 
-- 👀 But, now i am only focus on **Dart Flutter**
+    In this app user can add new auction post and see all bid list and update bid list in specific
+    date of post.and check dashboard of summary of product.
+    
+    ➲ Used   : Dart ,Flutter,Firebase.
 
-- 🙂 I Could work any language and they are framework also-
+    ➲ Github : [code](https://github.com/RootHex200/Auction-App)
 
-- 👨‍💻 All of my projects are available at [https://github.com/RootHex200](https://github.com/RootHex200)
+- **TaskManager**
 
-- 📫 How to reach me **sabiturrahman60@gmail.com**
+    This is task manager app. Login system with mongodb. where user can CRUD operations
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/sabitur.rahman.RootHex200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
-<a href="https://twitter.com/SabiturRahman10?t=Ws87oEsPwQKwW75orv9AwA&s=09&fbclid=IwAR0-81TDzTyrnsaN46bc19Hp2-b2YJPHBGyAB8HEq_OzjFkTjMHzGQYUL2o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sabitur.rahman.790/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-<!-- <a href="https://www.behance.net/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="harun181" height="30" width="40" /></a> -->
-</p>
+    ➲ Used   : Dart ,Flutter, Node.js,Express.js, MongoDB
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="" target="_blank"> <img src="https://github.com/RootHex200/RootHex200/blob/main/index.png" alt="Dart" width="40" height="40"/> </a> 
-<a href="" target="_blank"> <img src="https://github.com/RootHex200/RootHex200/blob/main/63714494-c4d9c880-c7f6-11e9-8940-5a9636ecba36.png" alt="Flutter" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<!-- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-</p> -->
- 
- ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RootHex200&theme=dark&hide_border=true&include_all_commits=50&count_private=true)<br/>
+    ➲ Github : [code](https://github.com/RootHex200/Fullstack-taskmanager)
+
+### Skills
+    -Languages : Dart,Kotlin,Javascript,GoLang
+    -Pacakge   : Riverpod,Isar,Retrofit,Dio,Bloc,Rxkotlin,Room
+    -Frameworks: Flutter,Native android, Express.js, Gin(Golang)
+    -Tools     : Git, Github, AWS EC2, Github action,vs code,android studio,postman
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roothex200&show_icons=true&theme=dark&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RootHex200&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
