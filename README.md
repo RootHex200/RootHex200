@@ -17,28 +17,30 @@ I'm always eager to learn and keep up with the latest tech trends. I've become q
 
     This is a reminder app that uses Isar local database, notification, and isolate. Users can create activities, and these activities will remind them at specific dates and times.
 
-    ➲ Used  : Dart, Flutter, Isar Database, Local Notification, Isolate.
+    ➲ Used  : Dart, Flutter, Isar Database, Local Notification, Isolate,Riverpod
 
     ➲ Demo  : [Playstore](https://play.google.com/store/apps/details?id=work_manager.sabitur)
 
     ➲ Github: [Code](https://github.com/RootHex200/Reminder_App)
 
+- **BD Result**
+  
+     BD Result is an Android app designed to assist you in quickly accessing your Board Exam
+      results and producing a printable PDF document
+  
+    ➲ Used   : Dart ,Flutter,Dio,PDF,Riverpod.
+
+    ➲ Github : [code](https://github.com/RootHex200/BD_Result)
+  
 - **Auction App**
 
     In this app user can add new auction post and see all bid list and update bid list in specific
     date of post.and check dashboard of summary of product.
     
-    ➲ Used   : Dart ,Flutter,Firebase.
+    ➲ Used   : Dart ,Flutter,Firebase,getx
 
     ➲ Github : [code](https://github.com/RootHex200/Auction-App)
 
-- **TaskManager**
-
-    This is task manager app. Login system with mongodb. where user can CRUD operations
-
-    ➲ Used   : Dart ,Flutter, Node.js,Express.js, MongoDB
-
-    ➲ Github : [code](https://github.com/RootHex200/Fullstack-taskmanager)
 
 ### Skills
     -Languages : Dart,Kotlin,Javascript,GoLang
