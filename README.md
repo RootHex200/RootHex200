@@ -1,53 +1,93 @@
-## Sabitur Rahman
-#### Dart | Flutter | Kotlin
-    Email    : sabiturrahman60@gmail.com
-    Portfolio: https://sabiturrahman.vercel.app/
-    Linkedin : https://linkedin.com/in/roothex200/
-    Github   : https://github.com/RootHex200
-    Leetcode : https://leetcode.com/RootHex200/
-    
+# Hi, I'm **Sabitur Rahman**
 
-### Cover Letter
-I've been into app development for about a year now, mainly using a cool tool called Flutter. My focus is making apps workreally smoothly, look great, and run efficiently.
+**Flutter Developer** passionate about building smooth, scalable, and high-performance mobile applications.  
+I love working with clean UI, optimized architecture, and reliable functionality.  
+Author of **4+ pub.dev packages**, contributor to **Flutter Core**, and active open-source enthusiast.
 
-I'm always eager to learn and keep up with the latest tech trends. I've become quite handy with things like building thebehind-the-scenes part of apps, making them look nice, and figuring out how to make them run fast.I have honed my skills andexpertise in clean architecture, design patterns, data structures and algorithms. I've also finished a bunch of my ownprojects, and now I'm aiming to help out in the open-source Flutter and Dart community.
-### Open Source Projects
+**Champion – MIST Leetcon 2023**  
+**1st Runner-Up – IUTCTF 2024 (Cybersecurity CTF)**
 
-- **Reminder App**
+---
 
-    This is a reminder app that uses Isar local database, notification, and isolate. Users can create activities, and these activities will remind them at specific dates and times.
+## Contact & Links
+- **Email:** [sabiturrahman60@gmail.com](mailto:sabiturrahman60@gmail.com)
+- **Blog:** [sabitur.com/blog](https://sabitur.com/blog)
+- **GitHub:** [github.com/RootHex200](https://github.com/RootHex200)
+- **Twitter:** [twitter.com/RootHex200](https://twitter.com/RootHex200)
+- **LinkedIn:** [linkedin.com/in/roothex200](https://linkedin.com/in/roothex200/)
 
-    ➲ Used  : Dart, Flutter, Isar Database, Local Notification, Isolate,Riverpod
+---
 
-    ➲ Demo  : [Playstore](https://play.google.com/store/apps/details?id=work_manager.sabitur)
+## Open-Source Contributions
 
-    ➲ Github: [Code](https://github.com/RootHex200/Reminder_App)
+### Flutter Core (flutter/flutter)
+- Contributed bug fixes to official Flutter framework  
+  PRs: [#175706](https://github.com/flutter/flutter/pull/175706), [#175303](https://github.com/flutter/flutter/pull/175303)
 
-- **BD Result**
-  
-     BD Result is an Android app designed to assist you in quickly accessing your Board Exam
-      results and producing a printable PDF document
-  
-    ➲ Used   : Dart ,Flutter,Dio,PDF,Riverpod.
+### BunnyWay Repositories
+- Added new features & fixed bugs for Android and iOS video player SDKs  
+  - [bunny-stream-android](https://github.com/bunnyway/bunny-stream-android)  
+  - [bunny-stream-ios](https://github.com/bunnyway/bunny-stream-ios)
 
-    ➲ Github : [code](https://github.com/RootHex200/BD_Result)
-  
-- **Auction App**
+### Packages Published on pub.dev
+- **[flutter_bunny_video_player](https://pub.dev/packages/flutter_bunny_video_player)**  
+- **[vimeo_player_flutter](https://pub.dev/packages/vimeo_player_flutter)**  
+- **[voice_recognition_flutter](https://pub.dev/packages/voice_recognition_flutter)**  
 
-    In this app user can add new auction post and see all bid list and update bid list in specific
-    date of post.and check dashboard of summary of product.
-    
-    ➲ Used   : Dart ,Flutter,Firebase,getx
+---
 
-    ➲ Github : [code](https://github.com/RootHex200/Auction-App)
+## Skills
 
+### Expertise
+- **Dart**
+- **Flutter**
+- **Android**
 
-### Skills
-    -Languages : Dart,Kotlin,Javascript,GoLang
-    -Pacakge   : Riverpod,Isar,Retrofit,Dio,Bloc,Rxkotlin,Room
-    -Frameworks: Flutter,Native android, Express.js, Gin(Golang)
-    -Tools     : Git, Github, AWS EC2, Github action,vs code,android studio,postman
+### Familiar
+- REST API  
+- Laravel  
+- CI/CD  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roothex200&show_icons=true&theme=dark&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+### Comfortable
+- Kotlin  
+- Native Android  
+- Clean Architecture  
+- Web Security  
+- Test code, Mockito  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RootHex200&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+---
+
+## Work Experience
+
+### **Software Engineer — FIGLAB**  
+**(Sept 2024 – Present)**  
+- Built **70% of Klasio LMS (SaaS)** mobile app (Android/iOS).  
+- Created reusable internal packages → **40% reduced dev time**.  
+- Integrated native components via platform views → **40% performance boost**.  
+- Enhanced video player + custom HTML rendering → **30% better engagement**.
+
+**Live Apps:**  
+- [Klasio Student – Play Store](https://play.google.com/store/apps/details?id=com.klasio.student)  
+- [Klasio Student – App Store](https://apps.apple.com/app/klasio-student/id1234567890)  
+- [Nurul Quran Academy – Play Store](https://play.google.com/store/apps/details?id=com.nurulquran.academy)
+
+---
+
+### **App Developer — Limerick Resources Limited**  
+**(Feb 2024 – Aug 2024)**  
+- Contributed **30%+** to OrderWala & Team OrderWala.  
+- Used **Clean Architecture, BLoC, Isolates, Debouncer**.  
+- Implemented real-time location tracking & printing → **25% productivity boost**.  
+- Improved overall performance and user experience.
+
+**Live Apps:**  
+- [OrderWala – Play Store](https://play.google.com/store/apps/details?id=com.orderwala)  
+- [Team OrderWala – Play Store](https://play.google.com/store/apps/details?id=com.teamorderwala)
+
+---
+
+## 🏅 Achievements
+- **Champion – MIST Leetcon 2023 (CTF Event)**  
+- **1st Runner-Up – IUTCTF 2024 (CTF Event)**  
+
+---
