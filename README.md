@@ -38,22 +38,10 @@ Author of **4+ pub.dev packages**, contributor to **Flutter Core**, and active o
 
 ## Skills
 
-### Expertise
-- **Dart**
-- **Flutter**
-- **Android**
-
-### Familiar
-- REST API  
-- Laravel  
-- CI/CD  
-
-### Comfortable
-- Kotlin  
-- Native Android  
-- Clean Architecture  
-- Web Security  
-- Test code, Mockito  
+**Expertise:** Dart • Flutter • Android  
+**Familiar:** REST API • Laravel • CI/CD  
+**Comfortable:** Kotlin • Native Android • Clean Architecture • Web Security • Test Code (Mockito)
+ 
 
 ---
 
